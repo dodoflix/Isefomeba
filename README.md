@@ -2,7 +2,7 @@
 Isefomeba is a simple Instagram tool to check is everyone following back at you.
 
 # Requirements
-- [Python 3] (https://www.python.org/downloads/)
+- [Python 3](https://www.python.org/downloads/)
 
 # How to use
 - Clone the project
