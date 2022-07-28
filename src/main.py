@@ -3,7 +3,7 @@ import instaloader
 L = instaloader.Instaloader()
 
 # <3
-username = "dogukan.metan"
+username = "yeahimdodo"
 password = "your_secret_password"
 L.login(username, password)
 
